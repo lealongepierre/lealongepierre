@@ -3,7 +3,7 @@
 🚧 Under construction 🚧
 
 
-In the meantime, you can find my PhD thesis [here](https://theses.hal.science/tel-03343958).
+In the meantime, you can visit my [LinkedIn profile](https://www.linkedin.com/in/lealongepierre/) or have a look at my PhD thesis [here](https://theses.hal.science/tel-03343958).
 
 <details>
 
