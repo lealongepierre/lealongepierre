@@ -35,7 +35,7 @@ That's why, at the moment, I'm learning full-stack development and DevOps practi
 
 I decided to create a project I would use, so I created a web application for planning one's concerts attendance at a music festival (Hellfest 2026, in that case). I plan to use this web app with my friends, allowing to mark concerts we want to attend (as *Favorites*), have different calendar views displaying for instance every concerts, only favorites, or friends' favorites.
 
-You can find this project in [this repository](https://github.com/lealongepierre/hf-planner). See section **⚡ Quick Local Setup**in the README if you want to easily test the web app locally!
+You can find this project in [this repository](https://github.com/lealongepierre/hf-planner). See section **⚡ Quick Local Setup** in the README if you want to easily test the web app locally!
 
 ---
 ### Other than that 
