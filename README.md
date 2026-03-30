@@ -33,7 +33,9 @@ I wanted to gain a deeper, hands-on understanding of the entire application life
 
 That's why, at the moment, I'm learning full-stack development and DevOps practices through a personal project. To that end, assisted by Claude code, I'm building a full-stack festival planner app with FastAPI, React/TypeScript, and PostgreSQL. This includes learning containerization with Docker, Kubernetes orchestration (Deployments, Services, ConfigMaps, Secrets), using CI/CD pipelines with GitHub Actions, and practicing test-driven development with pytest and vitest/MSW.
 
-You can find this project in this repository.
+I decided to create a project I would use, so I created a web application for planning one's concerts attendance at a music festival (Hellfest 2026, in that case). I plan to use this web app with my friends, allowing to mark concerts we want to attend (as *Favorites*), have different calendar views displaying for instance every concerts, only favorites, or friends' favorites.
+
+You can find this project in [this repository](https://github.com/lealongepierre/hf-planner).
 
 ---
 ### Other than that 
@@ -45,11 +47,6 @@ What I enjoy includes:
 - Cats 🐱 (here ↓ is the almighty, all-hungry and all-sleepy Nessie Cooper, queen / tyrant of my home since 2017)
 
 <img src="/images/nessie_1.jpg" width="220"> <img src="/images/nessie_2.jpg" width="220"> <img src="/images/nessie_3.jpg" width="220">
-
-
-> 👍 Success
->
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
 --- 
 ### How to reach me
