@@ -47,8 +47,9 @@ What I enjoy includes:
 <img src="/images/nessie_1.jpg" width="220"> <img src="/images/nessie_2.jpg" width="220"> <img src="/images/nessie_3.jpg" width="220">
 
 
-> [!TIP] alternate title
-> Helpful advice for doing things better or more easily.
+> 👍 Success
+>
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
 --- 
 ### How to reach me
