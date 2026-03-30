@@ -44,10 +44,6 @@ What I enjoy includes:
 
 <img src="/images/nessie_1.jpg" width="220"> <img src="/images/nessie_2.jpg" width="220"> <img src="/images/nessie_3.jpg" width="220">
 
-
-<div style="position: relative; padding-left: 40px; border-left: 2px solid #333;"> <div style="margin: 20px 0 20px 20px; border: 1px solid #333; padding: 10px; width: fit-content;"> Text Block </div> <div style="margin: 20px 0 20px 60px; border: 1px solid #333; padding: 10px; width: fit-content;"> Other text block </div> <div style="margin: 20px 0 20px 20px; border: 1px solid #333; padding: 10px; width: fit-content;"> Other text block </div> </div>
-
-
 --- 
 ### How to reach me
 You can contact me on [LinkedIn](https://www.linkedin.com/in/lealongepierre/)
