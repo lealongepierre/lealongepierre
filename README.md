@@ -18,9 +18,7 @@ In the meantime, you can visit my [LinkedIn profile](https://www.linkedin.com/in
 > Second, we introduce a spatial version of the SBM, suited for the observation of networks at different spatial locations. As before, the nodes are partitioned into latent classes and the connection is drawn from a Bernoulli distribution depending on the classes of these two nodes. The spatial evolution of the nodes memberships is modeled through hidden Markov random fields. We first prove that the parameter is generically identifiable under certain conditions. For the estimation of the parameters, we propose an algorithm based on the simulated field Expectation-Maximisation (EM) algorithm, a variation of the EM algorithm relying on a mean field like approximation based on the simulation of latent configurations.
 </details>
 
-<img src="/images/nessie_1.jpg" width="150">
-<img src="/images/nessie_2.jpg" width="150">
-<img src="/images/nessie_3.jpg" width="150">
+<img src="/images/nessie_1.jpg" width="150"> <img src="/images/nessie_2.jpg" width="150"> <img src="/images/nessie_3.jpg" width="150">
 
 
 <!--
