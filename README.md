@@ -29,7 +29,9 @@ I had the opportunity, during the beginning of my career at a company leveraging
 ---
 ### What I'm learning
 
-I wished to dig deeper into... That's why, at the moment, I'm learning full-stack development and DevOps practices through a personal project. To that end, assisted by Claude code, I'm building a full-stack festival planner app with FastAPI, React/TypeScript, and PostgreSQL. This includes learning containerization with Docker, Kubernetes orchestration (Deployments, Services, ConfigMaps, Secrets), using CI/CD pipelines with GitHub Actions, and practicing test-driven development with pytest and vitest/MSW.
+I wanted to gain a deeper, hands-on understanding of the entire application lifecycle—from data storage to backend logic and user interface. 
+
+That's why, at the moment, I'm learning full-stack development and DevOps practices through a personal project. To that end, assisted by Claude code, I'm building a full-stack festival planner app with FastAPI, React/TypeScript, and PostgreSQL. This includes learning containerization with Docker, Kubernetes orchestration (Deployments, Services, ConfigMaps, Secrets), using CI/CD pipelines with GitHub Actions, and practicing test-driven development with pytest and vitest/MSW.
 
 You can find this project in this repository.
 
@@ -43,6 +45,10 @@ What I enjoy includes:
 - Cats 🐱 (here ↓ is the almighty, all-hungry and all-sleepy Nessie Cooper, queen / tyrant of my home since 2017)
 
 <img src="/images/nessie_1.jpg" width="220"> <img src="/images/nessie_2.jpg" width="220"> <img src="/images/nessie_3.jpg" width="220">
+
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
 --- 
 ### How to reach me
