@@ -19,6 +19,8 @@ In the meantime, you can visit my [LinkedIn profile](https://www.linkedin.com/in
 </details>
 
 <img src="/images/nessie_1.jpg" width="150">
+<img src="/images/nessie_2.jpg" width="150">
+<img src="/images/nessie_3.jpg" width="150">
 
 
 <!--
