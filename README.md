@@ -6,6 +6,7 @@
 I am a ML engineer with a scientific background.
 
 I have a PhD thesis in statistics, which deals with random graphs, and in particular with parameter estimation in extended stochastic block models, either temporal or spatial. You can have a look at it [here](https://theses.hal.science/tel-03343958). The preparation of my PhD has been a unique and fulfilling experience. It not only allowed me to develop analytical and writing skills and deepen my knowledge in statistical theory, but also taught me to be resilient, with lots of ups and loooong downs, and the feeling of being isolated sometimes. The sense of achievement and pride, and the feeling of delving so deeply into a specific topic make up for these tough times. 
+
 During my PhD, I also had to teach tutorials and laboratory sessions, and it seemed terrifying to me, especially since I had just graduated and students were almost my age. I couldn't sleep before my first day, but I ended up really loving it, especially striving to communicate complex ideas clearly, and finding multiple ways to tackle and describe a specific subject.
 
 <details>
