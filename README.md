@@ -1,6 +1,6 @@
-## Hi, I'm Léa 👋
+<img src="images/github_banner.gif">
 
----
+
 ### About me 
 
 I am a ML engineer with a scientific background.
